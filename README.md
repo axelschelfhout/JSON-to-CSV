@@ -1,5 +1,5 @@
 # JSON-to-CSV
 
-To convert JSON to CSV:
-$jsonToCSV = new JsonToCSV();
-$jsonToCSV->convert('filename.json', 'filename.csv');
+### To convert JSON to CSV:
+  <code>$jsonToCSV = new JsonToCSV(); </code><br/>
+  <code>$jsonToCSV->convert('filename.json', 'filename.csv');</code>
