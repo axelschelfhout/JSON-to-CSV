@@ -1,7 +1,5 @@
 <?php
 
-namespace jsontocsv;
-
 /**
  * Class JsonToCSV
  *
